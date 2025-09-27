@@ -26,7 +26,7 @@ The **Snake environment code** was provided by UC3M. My contribution focused on 
 - The supervised agent showed improvement but was limited by mimicking human gameplay.  
 
 See the [Assignment 1 report](Reports/assignment1_report.pdf)  
-See the [Assignment 1 code](Codes/AutomaticAgentCode-Assingment1/)
+See the Assignment 1 code in the [`Codes/Automatic Agent Code - Assignment 1`](Codes/Automatic%20Agent%20Code%20-%20Assignment%201/) folder
 
 ---
 
@@ -53,8 +53,7 @@ See the [Assignment 1 code](Codes/AutomaticAgentCode-Assingment1/)
 - Demonstrated adaptability to different board sizes and robust performance.  
 
 See the [Assignment 2 report](Reports/assignment2_report.pdf)  
-See the [Assignment 2 code](Codes/AutomaticAgentCode-Assingment2/)
-
+See the Assignment 2 code in the [`Codes/Automatic Agent Code - Assignment 2`](Codes/Automatic%20Agent%20Code%20-%20Assignment%202/) folder
 ---
 
 ## Tech Stack
