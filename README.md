@@ -54,6 +54,7 @@ See the Assignment 1 code in the [`Codes/Automatic Agent Code - Assignment 1`](C
 
 See the [Assignment 2 report](Reports/assignment2_report.pdf)  
 See the Assignment 2 code in the [`Codes/Automatic Agent Code - Assignment 2`](Codes/Automatic%20Agent%20Code%20-%20Assignment%202/) folder
+
 ---
 
 ## Tech Stack
@@ -64,3 +65,10 @@ See the Assignment 2 code in the [`Codes/Automatic Agent Code - Assignment 2`](C
 - **ML Approaches:**  
   - Supervised Learning (classification + regression)  
   - Reinforcement Learning (Q-learning)
+    
+---
+
+## Contributors
+This project was developed collaboratively by:
+- **[Marina Juzgado Gómez-Menor**
+- **Carla Aranda Sánchez**
