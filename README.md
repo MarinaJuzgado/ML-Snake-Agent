@@ -25,7 +25,8 @@ The **Snake environment code** was provided by UC3M. My contribution focused on 
 - Regression models achieved reasonable accuracy predicting next-tick scores.  
 - The supervised agent showed improvement but was limited by mimicking human gameplay.  
 
-📄 See the [Assingment 1 report](docs/assignment1_report.pdf) for details.
+See the [Assignment 1 report](Reports/assignment1_report.pdf)  
+See the [Assignment 1 code](Codes/AutomaticAgentCode-Assingment1/)
 
 ---
 
@@ -51,7 +52,8 @@ The **Snake environment code** was provided by UC3M. My contribution focused on 
 - Learned natural strategies  
 - Demonstrated adaptability to different board sizes and robust performance.  
 
-📄 See the [Assingment 2 report](docs/assignment2_report.pdf) for details.
+See the [Assignment 2 report](Reports/assignment2_report.pdf)  
+See the [Assignment 2 code](Codes/AutomaticAgentCode-Assingment2/)
 
 ---
 
